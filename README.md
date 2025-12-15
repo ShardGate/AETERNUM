@@ -403,7 +403,7 @@ Use `/trigger aeternum.credits` to view credits in-game
 
 ### =====License=================================================
 
-Aeternum © 2024 by DevsCube is licensed under [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) 
+Aeternum © 2024-2026 by ShardGate is licensed under [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) 
 
 An exception is made for video content, which can be monetized. However,
-video creators must give appropriate credit by leaving a link to this page and/or the DevsCube discord in the video description.
+video creators must give appropriate credit by leaving a link to this page and/or the ShardGate discord in the video description.
