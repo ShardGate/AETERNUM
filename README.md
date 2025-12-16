@@ -1,4 +1,4 @@
-![Cover Art](https://cdn.modrinth.com/data/cached_images/8a9a4e6aad7b845a07c46278291c19d777f4dfff_0.webp)
+![Cover Art](https://github.com/ShardGate/assets/blob/main/Aeternum%20images/Aeternum%20Banner%20ART.png?raw=true)
 
 **Aeternum is an RPG Datapack for minecraft 1.21.4+ inspired by the Origins Mod!**
 
