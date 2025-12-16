@@ -2,6 +2,8 @@
 
 **Aeternum is an RPG Datapack for minecraft 1.21.4+ inspired by the Origins Mod!**
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zLjoYqC5d_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **⚠ Click on a spoiler to see more details!**
 
 **[List of all the abiltiies](https://docs.google.com/spreadsheets/d/1a80ub1OECNhR8d4D7AuQ2IObXjS4uoD7A2lb1Gnsn38/edit?usp=sharing)**
