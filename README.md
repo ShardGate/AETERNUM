@@ -6,6 +6,8 @@
 
 **⚠ Click on a spoiler to see more details!**
 
+**[Discord Server](https://discord.gg/8wEBKb73AV)**
+
 **[List of all the abiltiies](https://docs.google.com/spreadsheets/d/1a80ub1OECNhR8d4D7AuQ2IObXjS4uoD7A2lb1Gnsn38/edit?usp=sharing)**
 
 ### Commands
