@@ -1,6 +1,7 @@
 # rogue [Cooldowns]
 
 execute as @s[type=player,scores={aeternum.abilities.rogue.1.weakened_light.cool=1..}] run scoreboard players remove @s aeternum.abilities.rogue.1.weakened_light.cool 1
+execute as @s[tag=aeternum.abilities.rogue.1.weakened_light.marker,scores={aeternum.abilities.rogue.1.weakened_light.cool=1..}] run scoreboard players remove @s aeternum.abilities.rogue.1.weakened_light.cool 1
 execute as @s[type=player,scores={aeternum.abilities.rogue.1.sneak_1.cool=1..}] run scoreboard players remove @s aeternum.abilities.rogue.1.sneak_1.cool 1
 
 execute as @s[type=player,scores={aeternum.abilities.rogue.2.confusion.cool=1..}] run scoreboard players remove @s aeternum.abilities.rogue.2.confusion.cool 1
